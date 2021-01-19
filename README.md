@@ -8,6 +8,10 @@
 
 * [Javet](https://github.com/caoccao/Javet) - Javet is Java + V8 (JAVa + V + EighT). It is yet another way of embedding V8 in Java. It was inspired by J2V8.
 
+## Discussions
+
+You are welcome joining the [discussions](https://github.com/caoccao/caoccao.github.io/discussions).
+
 ## Contact
 
 You may send messages to [@sjtucaocao](https://twitter.com/sjtucaocao) or email to sjtucaocao@gmail.com.
