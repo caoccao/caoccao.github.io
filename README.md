@@ -10,7 +10,7 @@
 
 ## Discussions
 
-You are welcome joining the [discussions](https://github.com/caoccao/caoccao.github.io/discussions).
+You are welcome joining the [discussions](https://caoccao.blogspot.com/).
 
 ## Contact
 
