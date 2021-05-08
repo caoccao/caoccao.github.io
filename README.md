@@ -10,7 +10,7 @@
 
 ## Blog
 
-You are welcome visiting my [blog](http://caoccao.blogspot.com/).
+You are welcome visiting [http://caoccao.blogspot.com/](http://caoccao.blogspot.com/) or [https://sjtucaocao.medium.com/](https://sjtucaocao.medium.com/).
 
 ## Contact
 
