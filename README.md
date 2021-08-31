@@ -7,6 +7,7 @@
 ## Open Source Projects
 
 * [Javet](https://github.com/caoccao/Javet) - Javet is Java + V8 (JAVa + V + EighT). It is an awesome way of embedding Node.js and V8 in Java.
+* [Javenode](https://github.com/caoccao/Javenode) - Javenode is Java + V8 + Node.js. It is a Node.js simulator with Java in V8.
 
 ## Blog
 
