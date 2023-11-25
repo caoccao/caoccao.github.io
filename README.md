@@ -10,6 +10,7 @@
 * [Javenode](https://github.com/caoccao/Javenode) - Javenode is Java + V8 + Node.js. It is a Node.js simulator with Java in V8.
 * [Javet Sanitizer](https://github.com/caoccao/JavetSanitizer) - Javet Sanitizer is a sanitizer framework for parsing and validating JavaScript code on JVM. It is built on top of [antlr4](https://github.com/antlr/antlr4) and [grammars-v4](https://github.com/antlr/grammars-v4).
 * [Jaspiler](https://github.com/caoccao/Jaspiler) - Jaspiler is a Java to Java transpiler. It transpiles the given Java code to the corresponding Java code with some customizations. It is expected to be a Babel for Java.
+* [Javet Shell](https://github.com/caoccao/JavetShell) - Javet Shell is a simple console or Android application that provides a Node.js flavored console interactions. It is a sample application of Javet.
 
 ## Blog
 
