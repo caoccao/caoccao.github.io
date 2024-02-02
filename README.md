@@ -14,7 +14,7 @@
 
 ## Blog
 
-You are welcome visiting [https://sjtucaocao.medium.com/](https://sjtucaocao.medium.com/) or [http://caoccao.blogspot.com/](http://caoccao.blogspot.com/).
+You are welcome visiting [https://blog.caoccao.com/](https://blog.caoccao.com/) or [http://caoccao.blogspot.com/](http://caoccao.blogspot.com/).
 
 ## Contact
 
